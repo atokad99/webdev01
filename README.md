@@ -4,4 +4,4 @@ Hi there! I work at a small computer store and have created / worked on several 
 
 I have always wanted to be better at javascript and web developement in general, so I am hoping that I will be a much better web programmer after taking this course.  
 
-![alt text](https://github.com/atokad99/webdev01/blob/main/images/dakota.jpg?raw=true)
+![alt text](https://github.com/atokad99/webdev01/blob/main/Images/dakota.jpg?raw=true)
